@@ -9,7 +9,7 @@ A simple script to download all videos in a youtube playlist (720p quality), con
 ```bash
 
 $ pip3 install pytube, FFmpeg
-
+ pip install git+https://github.com/openai/whisper.git 
  git clone https://github.com/tdietert/youtubePlaylistDL.git
 
 ```
